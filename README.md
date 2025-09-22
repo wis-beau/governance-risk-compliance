@@ -77,7 +77,3 @@ Any code snippets, labs, or templates provided are simplified for training and l
 They should not be used as-is for production environments.  
 
 ---
-
-## ❓ Next Step
-👉 Please confirm which **SaaS sector/niche** you’d like the startup to represent (e.g., AI productivity app, HR SaaS, collaboration tool).  
-Once confirmed, I will populate the **subfolder contents** with tailored labs, exercises, and documentation.
